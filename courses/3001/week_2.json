@@ -1,0 +1,652 @@
+{
+    "lessons": [
+        {
+            "id": "lesson_6",
+            "data": [
+                {
+                    "type": "vocab",
+                    "id": 1,
+                    "chinese": "谁",
+                    "pinyin": "shéi",
+                    "english": "who, whom"
+                },
+                {
+                    "type": "vocab",
+                    "id": 2,
+                    "chinese": "妈妈",
+                    "pinyin": "māmɑ",
+                    "english": "mother"
+                },
+                {
+                    "type": "vocab",
+                    "id": 3,
+                    "chinese": "今年",
+                    "pinyin": "jīnnián",
+                    "english": "this year"
+                },
+                {
+                    "type": "vocab",
+                    "id": 4,
+                    "chinese": "这个",
+                    "pinyin": "zhèɡe",
+                    "english": "this one"
+                },
+                {
+                    "type": "vocab",
+                    "id": 5,
+                    "chinese": "爸爸",
+                    "pinyin": "bàbɑ",
+                    "english": "father"
+                },
+                {
+                    "type": "vocab",
+                    "id": 6,
+                    "chinese": "哥哥",
+                    "pinyin": "ɡēɡe",
+                    "english": "older brother"
+                },
+                {
+                    "type": "vocab",
+                    "id": 7,
+                    "chinese": "妹妹",
+                    "pinyin": "mèimei",
+                    "english": "younger sister"
+                },
+                {
+                    "type": "vocab",
+                    "id": 8,
+                    "chinese": "漂亮",
+                    "pinyin": "piàoliɑnɡ",
+                    "english": "pretty, beautiful"
+                },
+                {
+                    "type": "dialog",
+                    "id": 9,
+                    "chinese": "A: Xùdōnɡ, tā shì shéi?",
+                    "pinyin": "旭 东，她 是 谁(who)？Xudong, who is she?",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 10,
+                    "chinese": "B: Tā shì wǒ māmɑ. Tā jīnnián sì shí liù suì.",
+                    "pinyin": "她 是  我 妈 妈。她 今年四 十 六 岁。She is my mum. She is 46 years old this year.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 11,
+                    "chinese": "Tā shì shéi？",
+                    "pinyin": "她 是  谁？Who is she?",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 12,
+                    "chinese": "Tā shì wǒ mèimei. Tā jīnnián shí jiǔ suì.",
+                    "pinyin": "她 是  我 妹 妹。 她  今 年   十 九  岁。She is my younger sister. She is 19 years old this year.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 13,
+                    "chinese": "Nǐ mèimei hěn piàoliɑnɡ.",
+                    "pinyin": "你 妹 妹  很  漂  亮。Your younger sister is very pretty.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 14,
+                    "chinese": "Xièxie!",
+                    "pinyin": "谢  谢  ！Thanks!",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 15,
+                    "chinese": "Zhè     ɡe rén shì shéi？",
+                    "pinyin": "这个 人  是  谁？Who is this person?",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 16,
+                    "chinese": "Zhè ɡe rén shì wǒ bàbɑ. Tā jīnnián wǔshí suì.",
+                    "pinyin": "这  个 人  是  我 爸 爸。他 今 年 五 十 岁。This is my dad. He is 50 years old this year.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 17,
+                    "chinese": "Zài jiàn!",
+                    "pinyin": "再  见！Bye!",
+                    "english": ""
+                }
+            ]
+        },
+        {
+            "id": "lesson_7",
+            "data": [
+                {
+                    "type": "vocab",
+                    "id": 1,
+                    "chinese": "有",
+                    "pinyin": "yǒu",
+                    "english": "have"
+                },
+                {
+                    "type": "vocab",
+                    "id": 2,
+                    "chinese": "狗",
+                    "pinyin": "ɡǒu",
+                    "english": "dog"
+                },
+                {
+                    "type": "vocab",
+                    "id": 3,
+                    "chinese": "吗",
+                    "pinyin": "mɑ",
+                    "english": "(question mark)"
+                },
+                {
+                    "type": "vocab",
+                    "id": 4,
+                    "chinese": "只",
+                    "pinyin": "zhī",
+                    "english": "measure word"
+                },
+                {
+                    "type": "vocab",
+                    "id": 5,
+                    "chinese": "了",
+                    "pinyin": "le",
+                    "english": "a particle"
+                },
+                {
+                    "type": "vocab",
+                    "id": 6,
+                    "chinese": "没有",
+                    "pinyin": "méi yǒu",
+                    "english": "do not have"
+                },
+                {
+                    "type": "vocab",
+                    "id": 7,
+                    "chinese": "猫",
+                    "pinyin": "māo",
+                    "english": "cat"
+                },
+                {
+                    "type": "vocab",
+                    "id": 8,
+                    "chinese": "汪汪",
+                    "pinyin": "Wānɡwang",
+                    "english": "a dog's name"
+                },
+                {
+                    "type": "vocab",
+                    "id": 9,
+                    "chinese": "小",
+                    "pinyin": "xiǎo",
+                    "english": "small"
+                },
+                {
+                    "type": "vocab",
+                    "id": 10,
+                    "chinese": "喵喵",
+                    "pinyin": "Miāomiao",
+                    "english": "a cat's name"
+                },
+                {
+                    "type": "dialog",
+                    "id": 11,
+                    "chinese": "A: Xùdōnɡ，nǐ yǒu ɡǒu mɑ？",
+                    "pinyin": "旭  东，你 有  狗  吗？Do you have a dog?",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 12,
+                    "chinese": "B: Yǒu. Wǒ yǒu yì zhī dà ɡǒu.",
+                    "pinyin": "有。我 有  一 只  大 狗。Yes. I have a big dog.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 13,
+                    "chinese": "A: Nǐ de ɡǒu duō dà le？",
+                    "pinyin": "你 的 狗  多  大 了？How old is your dog?",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 14,
+                    "chinese": "B: Qī suì le. Xiǎobèi, nǐ yǒu ɡǒu mɑ？",
+                    "pinyin": "七 岁  了。小  蓓，你 有  狗  吗？7.Xiaobei, do you have a dog?",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 15,
+                    "chinese": "A: Wǒ méiyǒu ɡǒu. Wǒ yǒu yì zhī sān suì de xiǎo māo.",
+                    "pinyin": "我 没 有  狗。 我 有  一 只  三  岁  的  小  猫. No, I don't have a dog. I have a 3-year-old kitten.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 16,
+                    "chinese": "B: Wǒ de dà ɡǒu jiào Wānɡwanɡ.",
+                    "pinyin": "我 的 大 狗  叫   汪   汪。My dog is called Wangwang.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 17,
+                    "chinese": "A: Wǒ de xiǎo māo jiào Miāomiao.",
+                    "pinyin": "我的小猫叫喵喵。My kitten is called Miaomiao.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 18,
+                    "chinese": "A: Xùdōnɡ, nǐ de dà ɡǒu zěnme yànɡ?",
+                    "pinyin": "旭  东，你的大狗怎么样？How is your big dog?",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 19,
+                    "chinese": "B: Tā hěn kāixīn.",
+                    "pinyin": "他很开心。He is very happy.",
+                    "english": ""
+                }
+            ]
+        },
+        {
+            "id": "lesson_8",
+            "data": [
+                {
+                    "type": "vocab",
+                    "id": 1,
+                    "chinese": "在",
+                    "pinyin": "zài",
+                    "english": "to be at/in/on; Indicating location"
+                },
+                {
+                    "type": "vocab",
+                    "id": 2,
+                    "chinese": "北京",
+                    "pinyin": "Běijīnɡ",
+                    "english": "Beijing"
+                },
+                {
+                    "type": "vocab",
+                    "id": 3,
+                    "chinese": "学习",
+                    "pinyin": "xuéxí",
+                    "english": "study"
+                },
+                {
+                    "type": "vocab",
+                    "id": 4,
+                    "chinese": "汉语",
+                    "pinyin": "hànyǔ",
+                    "english": "Chinese"
+                },
+                {
+                    "type": "vocab",
+                    "id": 5,
+                    "chinese": "呢",
+                    "pinyin": "ne",
+                    "english": "a modal particle"
+                },
+                {
+                    "type": "vocab",
+                    "id": 6,
+                    "chinese": "学校",
+                    "pinyin": "xuéxiào",
+                    "english": "school"
+                },
+                {
+                    "type": "vocab",
+                    "id": 7,
+                    "chinese": "个",
+                    "pinyin": "ɡè",
+                    "english": "(measure word)"
+                },
+                {
+                    "type": "vocab",
+                    "id": 8,
+                    "chinese": "儿子",
+                    "pinyin": "érzi",
+                    "english": "son"
+                },
+                {
+                    "type": "vocab",
+                    "id": 9,
+                    "chinese": "和",
+                    "pinyin": "hé",
+                    "english": "and"
+                },
+                {
+                    "type": "vocab",
+                    "id": 10,
+                    "chinese": "女儿",
+                    "pinyin": "nǚér",
+                    "english": "daughter"
+                },
+                {
+                    "type": "dialog",
+                    "id": 11,
+                    "chinese": "Jenny：Nǐ hǎo！Wǒ zài Běijīnɡ xuéxí hànyǔ ne！",
+                    "pinyin": "你 好！ 我 在  北  京  学 习 汉 语 呢！Hello! I am learning Chinese in Beijing.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 12,
+                    "chinese": "Wǒmen de xuéxiào hěn dà.",
+                    "pinyin": "我们的学校很大。Our school is very big.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 13,
+                    "chinese": "Wǒ de lǎoshī jiào Wánɡ Huān，Tā jīnnián sān shí liù suì.",
+                    "pinyin": "我的 老师 叫 王 欢，她 今年 三 十 六 岁。My teacher's name is Wang Huan. She is 36 years old this year.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 14,
+                    "chinese": "Wánɡ Lǎoshī yǒu yí ɡe érzi hé yí ɡe nǚ’ér.",
+                    "pinyin": "王老师 有  一 个 儿子 和 一 个 女儿。Teacher Wang has a son and a daughter.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 15,
+                    "chinese": "Tā érzi wǔ suì, nǚ’ér sān suì.",
+                    "pinyin": "她 儿子 五 岁，女儿  三  岁。Her son is 5, and her daughter is 3.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 16,
+                    "chinese": "Nǐ zěnmeyàng？",
+                    "pinyin": "你  怎 么 样？How about you?",
+                    "english": ""
+                }
+            ]
+        },
+        {
+            "id": "lesson_9",
+            "data": [
+              {
+                "type": "vocab",
+                "id": 1,
+                "chinese": "弟弟",
+                "pinyin": "dìdi",
+                "english": "younger brother"
+              },
+              {
+                "type": "vocab",
+                "id": 2,
+                "chinese": "会",
+                "pinyin": "huì",
+                "english": "can"
+              },
+              {
+                "type": "vocab",
+                "id": 3,
+                "chinese": "说",
+                "pinyin": "shuō",
+                "english": "to speak, to say"
+              },
+              {
+                "type": "vocab",
+                "id": 4,
+                "chinese": "一点儿",
+                "pinyin": "yìdiǎnr",
+                "english": "a little"
+              },
+              {
+                "type": "vocab",
+                "id": 5,
+                "chinese": "酷",
+                "pinyin": "kù",
+                "english": "cool"
+              },
+              {
+                "type": "vocab",
+                "id": 6,
+                "chinese": "对",
+                "pinyin": "duì",
+                "english": "right, correct"
+              },
+              {
+                "type": "vocab",
+                "id": 7,
+                "chinese": "写",
+                "pinyin": "xiě",
+                "english": "to write"
+              },
+              {
+                "type": "vocab",
+                "id": 8,
+                "chinese": "汉字",
+                "pinyin": "hànzì",
+                "english": "Chinese character"
+              },
+              {
+                "type": "vocab",
+                "id": 9,
+                "chinese": "太……了",
+                "pinyin": "tài …… le",
+                "english": "too, very"
+              },
+              {
+                "type": "vocab",
+                "id": 10,
+                "chinese": "怎么",
+                "pinyin": "zěnme",
+                "english": "how"
+              },
+              {
+                "type": "vocab",
+                "id": 11,
+                "chinese": "读",
+                "pinyin": "dú",
+                "english": "to read"
+              },
+              {
+                "type": "vocab",
+                "id": 12,
+                "chinese": "北京大学",
+                "pinyin": "Běijīngdàxué",
+                "english": "Peking University"
+              },
+              {
+                "type": "dialog",
+                "id": 13,
+                "chinese": "A: Qiáozhì, nǐ dìdi huì shuō hànyǔ mɑ？",
+                "pinyin": "乔治，你弟弟会说汉语吗？Qiaozhi, can your brother speak Chinese?",
+                "english": ""
+              },
+              {
+                "type": "dialog",
+                "id": 14,
+                "chinese": "B: Huì shuō yīdiǎnr. Tā shuō, huì shuō hànyǔ hěn kù!",
+                "pinyin": "会说一点儿。他说，会说汉语很酷！Yes, he can speak a little. He said speaking Chinese is cool!",
+                "english": ""
+              },
+              {
+                "type": "dialog",
+                "id": 15,
+                "chinese": "A: Duì! Tài kù le! Tā huì xiě hànzì mɑ？",
+                "pinyin": "对！太酷了！他会写汉字吗？Yes, it is very cool! Can he write Chinese characters?",
+                "english": ""
+              },
+              {
+                "type": "dialog",
+                "id": 16,
+                "chinese": "B: Huì. Tā huì xiě èrshíwǔ ɡè hànzì.",
+                "pinyin": "会。他会写二十五个汉字。Yes, he can. He can write 25 Chinese characters.",
+                "english": ""
+              },
+              {
+                "type": "dialog",
+                "id": 17,
+                "chinese": "A: Nǐ huì xiě hànzì mɑ？",
+                "pinyin": "你会写汉字吗？Can you write Chinese characters?",
+                "english": ""
+              },
+              {
+                "type": "dialog",
+                "id": 18,
+                "chinese": "B: Wǒ huì dú, bú huì xiě.",
+                "pinyin": "我会读，不会写。I can read, but I can't write.",
+                "english": ""
+              },
+              {
+                "type": "dialog",
+                "id": 19,
+                "chinese": "A: Zhè sì gè zì zěnme dú？",
+                "pinyin": "这四个字怎么读？How to read these four characters?",
+                "english": ""
+              },
+              {
+                "type": "dialog",
+                "id": 20,
+                "chinese": "B: “Běijīng dàxué”.",
+                "pinyin": "“北京大学”。Peking University.",
+                "english": ""
+              }
+            ]
+          },          
+        {
+            "id": "lesson_10",
+            "data": [
+                {
+                    "type": "vocab",
+                    "id": 1,
+                    "chinese": "朋友",
+                    "pinyin": "pénɡyou",
+                    "english": "friend"
+                },
+                {
+                    "type": "vocab",
+                    "id": 2,
+                    "chinese": "看",
+                    "pinyin": "kàn",
+                    "english": "watch"
+                },
+                {
+                    "type": "vocab",
+                    "id": 3,
+                    "chinese": "电影",
+                    "pinyin": "diànyǐnɡ",
+                    "english": "movie"
+                },
+                {
+                    "type": "vocab",
+                    "id": 4,
+                    "chinese": "你们",
+                    "pinyin": "nǐ men",
+                    "english": "you all"
+                },
+                {
+                    "type": "vocab",
+                    "id": 5,
+                    "chinese": "今天",
+                    "pinyin": "jīntiān",
+                    "english": "today"
+                },
+                {
+                    "type": "vocab",
+                    "id": 6,
+                    "chinese": "想",
+                    "pinyin": "xiǎnɡ",
+                    "english": "want"
+                },
+                {
+                    "type": "vocab",
+                    "id": 7,
+                    "chinese": "功夫",
+                    "pinyin": "ɡōnɡfu",
+                    "english": "kungfu"
+                },
+                {
+                    "type": "vocab",
+                    "id": 8,
+                    "chinese": "熊猫",
+                    "pinyin": "xiónɡmāo",
+                    "english": "panda"
+                },
+                {
+                    "type": "dialog",
+                    "id": 9,
+                    "chinese": "A: Tā shì nǐ de tónɡxué mɑ？",
+                    "pinyin": "他 是 你 的  同  学  吗 ？Is he your classmate?",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 10,
+                    "chinese": "B: Shì. Wǒmen rènshi sān nián le.",
+                    "pinyin": "是。 我 们 认 识  三   年  了。Yes, we have known each other for 3 years.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 11,
+                    "chinese": "A: Tā yě shì nǐ de tónɡxué mɑ？",
+                    "pinyin": "她 也 是  你 的 同  学  吗 ？Is she also your classmate?",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 12,
+                    "chinese": "B: Bú shì. Tā shì wǒ de pénɡyou。",
+                    "pinyin": "不 是。 她 是  我 的 朋友(friend)。No, she is my friend.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 13,
+                    "chinese": "Wǒ men yì qǐ  kàn diànyǐnɡ。",
+                    "pinyin": "我  们 一 起(together) 看  电 影(film)。We watch films together.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 14,
+                    "chinese": "A: Nǐ men jīntiān   xiǎnɡ kàn diànyǐnɡ mɑ？",
+                    "pinyin": "你 们 今天(today) 想(would like) 看 电  影  吗？Do you want to watch a film today?",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 15,
+                    "chinese": "B: Xiǎnɡ kàn ya！",
+                    "pinyin": "想   看  呀(modal particle)！Yes, I want to.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 16,
+                    "chinese": "Wǒmen xiǎnɡ kàn Gōnɡfu Xiónɡmāo。",
+                    "pinyin": "我们 想 看 《功夫熊猫》(Kung Fu Panda)。We would like to watch Kung Fu Panda.",
+                    "english": ""
+                },
+                {
+                    "type": "dialog",
+                    "id": 17,
+                    "chinese": "Kàn, shì zhè ɡe！",
+                    "pinyin": "看， 是  这  个！See, here it is!",
+                    "english": ""
+                }
+            ]
+        }
+    ]
+}

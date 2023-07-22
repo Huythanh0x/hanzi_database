@@ -1,0 +1,610 @@
+{
+    "lessons": [
+        {
+            "id": "lesson_16",
+            "data": [
+                {
+                    "type": "vocab",
+                    "id": 1,
+                    "chinese": "中 学",
+                    "pinyin": "zhōnɡxué",
+                    "english": "high school"
+                },
+                {
+                    "type": "vocab",
+                    "id": 2,
+                    "chinese": "银 行",
+                    "pinyin": "yínhánɡ",
+                    "english": "bank"
+                },
+                {
+                    "type": "vocab",
+                    "id": 3,
+                    "chinese": "明 年",
+                    "pinyin": "mínɡnián",
+                    "english": "next year"
+                },
+                {
+                    "type": "vocab",
+                    "id": 4,
+                    "chinese": "外 国 人",
+                    "pinyin": "wàiɡuórén",
+                    "english": "foreigner"
+                },
+                {
+                    "type": "vocab",
+                    "id": 5,
+                    "chinese": "做",
+                    "pinyin": "zuò",
+                    "english": "to do"
+                },
+                {
+                    "type": "vocab",
+                    "id": 6,
+                    "chinese": "学 生",
+                    "pinyin": "xuéshenɡ",
+                    "english": "student"
+                },
+                {
+                    "type": "vocab",
+                    "id": 7,
+                    "chinese": "少",
+                    "pinyin": "shǎo",
+                    "english": "less, little, few"
+                },
+                {
+                    "type": "vocab",
+                    "id": 8,
+                    "chinese": "哦",
+                    "pinyin": "ò/ó",
+                    "english": "oh; ah; I see"
+                },
+                {
+                    "type": "dialog",
+                    "id": 1,
+                    "chinese": "你妈妈做什么工作？",
+                    "pinyin": "Nǐ māmɑ zuò shénme ɡōnɡzuò?",
+                    "english": "What does your mum do?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 2,
+                    "chinese": "我妈妈是中学老师。",
+                    "pinyin": "Wǒ māmɑ shì zhōnɡxué lǎoshī.",
+                    "english": "My mum is a teacher in a middle school."
+                },
+                {
+                    "type": "dialog",
+                    "id": 3,
+                    "chinese": "她的学生多吗？",
+                    "pinyin": "Tā de xuéshenɡ duō mɑ?",
+                    "english": "Does she have many students?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 4,
+                    "chinese": "不少。她有五十六个学生。",
+                    "pinyin": "Bù shǎo. Tā yǒu wǔ shí liù ɡe xuéshenɡ.",
+                    "english": "Yes, she does. She has 56 students."
+                },
+                {
+                    "type": "dialog",
+                    "id": 5,
+                    "chinese": "他们都是中国人吗？",
+                    "pinyin": "Tā men dōu shì Zhōnɡɡuó rén mɑ?",
+                    "english": "Are they all Chinese?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 6,
+                    "chinese": "不都是中国人，也有外国人。",
+                    "pinyin": "Bù dōu shì Zhōnɡɡuó rén，yě yǒu wàiɡuó rén.",
+                    "english": "No. There are also some foreigners."
+                },
+                {
+                    "type": "dialog",
+                    "id": 7,
+                    "chinese": "你爸爸在哪儿工作？",
+                    "pinyin": "Nǐ bàbɑ zài nǎr ɡōnɡzuò？",
+                    "english": "Where does father work?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 8,
+                    "chinese": "我爸爸在银行工作。",
+                    "pinyin": "Wǒ bàbɑ zài yínhánɡ ɡōnɡzuò.",
+                    "english": "My father works in a bank."
+                },
+                {
+                    "type": "dialog",
+                    "id": 9,
+                    "chinese": "哦。你明年去香港工作，是吗？",
+                    "pinyin": "Ò.  Nǐ mínɡnián qù Xiānɡɡǎnɡ ɡōnɡzuò，shì mɑ？",
+                    "english": "I see. You are going to Hong Kong to work next year. Aren't you?"
+                }
+            ]
+        },
+        {
+            "id": "lesson_17",
+            "data": [
+                {
+                    "type": "vocab",
+                    "id": 1,
+                    "chinese": "医 院",
+                    "pinyin": "yīyuàn",
+                    "english": "hospital"
+                },
+                {
+                    "type": "vocab",
+                    "id": 2,
+                    "chinese": "医 生",
+                    "pinyin": "yīshēnɡ",
+                    "english": "doctor"
+                },
+                {
+                    "type": "vocab",
+                    "id": 3,
+                    "chinese": "住 院",
+                    "pinyin": "zhùyuàn",
+                    "english": "be in hospital; be hospitalized"
+                },
+                {
+                    "type": "vocab",
+                    "id": 4,
+                    "chinese": "昨 天",
+                    "pinyin": "zuótiān",
+                    "english": "yesterday"
+                },
+                {
+                    "type": "vocab",
+                    "id": 5,
+                    "chinese": "看 见",
+                    "pinyin": "kànjiàn",
+                    "english": "catch sight of, see"
+                },
+                {
+                    "type": "vocab",
+                    "id": 6,
+                    "chinese": "姐 姐",
+                    "pinyin": "jiějie",
+                    "english": "elder sister"
+                },
+                {
+                    "type": "vocab",
+                    "id": 7,
+                    "chinese": "电 影 院",
+                    "pinyin": "diànyǐnɡyuàn",
+                    "english": "cinema"
+                },
+                {
+                    "type": "vocab",
+                    "id": 8,
+                    "chinese": "嗯",
+                    "pinyin": "ńg/ňg/ǹg",
+                    "english": "Huh; Well; Hmm; Yeah"
+                },
+                {
+                    "type": "dialog",
+                    "id": 1,
+                    "chinese": "昨天我看见你姐姐了。",
+                    "pinyin": "Zuótiān wǒ kànjiàn nǐ jiějie le.",
+                    "english": "I saw your elder sister yesterday."
+                },
+                {
+                    "type": "dialog",
+                    "id": 2,
+                    "chinese": "哦，在哪儿？",
+                    "pinyin": "Ó，zài nǎr？",
+                    "english": "Really? Where?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 3,
+                    "chinese": "在医院。我有一个朋友住院呢！",
+                    "pinyin": "Zài yīyuàn. Wǒ yǒu yí ɡe pénɡyou zhùyuàn ne！",
+                    "english": "In the hospital. A friend of mine has been in hospital."
+                },
+                {
+                    "type": "dialog",
+                    "id": 4,
+                    "chinese": "我昨天去看他了。你姐姐是医生吗？",
+                    "pinyin": "Wǒ zuótiān qù kàn tā le. Nǐ jiějie shì yīshēnɡ mɑ？",
+                    "english": "I went to see him yesterday. Is your sister a doctor?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 5,
+                    "chinese": "对，她是医生。",
+                    "pinyin": "Duì，tā shì yīshēnɡ.",
+                    "english": "Yes, she is."
+                },
+                {
+                    "type": "dialog",
+                    "id": 6,
+                    "chinese": "她喜欢她的工作吗？",
+                    "pinyin": "Tā xǐhuɑn tā de ɡōnɡzuò mɑ？",
+                    "english": "Does she like her job?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 7,
+                    "chinese": "很喜欢。",
+                    "pinyin": "Hěn xǐhuɑn.",
+                    "english": "Yes, very much."
+                },
+                {
+                    "type": "dialog",
+                    "id": 8,
+                    "chinese": "你想在医院工作吗？",
+                    "pinyin": "Nǐ xiǎnɡ zài yīyuàn ɡōnɡzuò mɑ？",
+                    "english": "Would you like to work in a hospital?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 9,
+                    "chinese": "嗯 …… 我不想。",
+                    "pinyin": "Èn …… wǒ bù xiǎnɡ.",
+                    "english": "Well... I don't want to."
+                },
+                {
+                    "type": "dialog",
+                    "id": 10,
+                    "chinese": "你想做什么？",
+                    "pinyin": "Nǐ xiǎnɡ zuò shénme？",
+                    "english": "What would you like to do?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 11,
+                    "chinese": "我想在电影院工作。",
+                    "pinyin": "Wǒ xiǎnɡ zài diànyǐnɡyuàn ɡōnɡzuò.",
+                    "english": "I would like to work in a cinema."
+                }
+            ]
+        },
+        {
+            "id": "lesson_18",
+            "data": [
+                {
+                    "type": "vocab",
+                    "id": 1,
+                    "chinese": "咖 啡 厅",
+                    "pinyin": "kāfēitīnɡ",
+                    "english": "Cafe"
+                },
+                {
+                    "type": "vocab",
+                    "id": 2,
+                    "chinese": "那 里 / 那 儿",
+                    "pinyin": "nàlǐ / nàr",
+                    "english": "there"
+                },
+                {
+                    "type": "vocab",
+                    "id": 3,
+                    "chinese": "看 书 / 读 书",
+                    "pinyin": "kànshū /dúshū",
+                    "english": "read a book, reading"
+                },
+                {
+                    "type": "vocab",
+                    "id": 4,
+                    "chinese": "本",
+                    "pinyin": "běn",
+                    "english": "measure word for books"
+                },
+                {
+                    "type": "vocab",
+                    "id": 5,
+                    "chinese": "中 文",
+                    "pinyin": "zhōnɡwén",
+                    "english": "Chinese language"
+                },
+                {
+                    "type": "vocab",
+                    "id": 6,
+                    "chinese": "好 看",
+                    "pinyin": "hǎokàn",
+                    "english": "good-looking, interesting to read/see"
+                },
+                {
+                    "type": "vocab",
+                    "id": 7,
+                    "chinese": "《红 楼 梦》",
+                    "pinyin": "Hónɡlóumènɡ",
+                    "english": "A Dream of Red Mansions (a book's name)"
+                },
+                {
+                    "type": "dialog",
+                    "id": 1,
+                    "chinese": "凯莉，你在哪儿呢？",
+                    "pinyin": "Kǎilì，nǐ zài nǎr ne？",
+                    "english": "Kaili, where are you?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 2,
+                    "chinese": "我在咖啡厅呢。",
+                    "pinyin": "Wǒ zài kāfēi tīnɡ ne.",
+                    "english": "I am in a Cafe."
+                },
+                {
+                    "type": "dialog",
+                    "id": 3,
+                    "chinese": "你在那里做什么呢？",
+                    "pinyin": "Nǐ zài nàlǐ zuò shénme ne？",
+                    "english": "What are you doing there?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 4,
+                    "chinese": "我看书呢！",
+                    "pinyin": "Wǒ kànshū ne!",
+                    "english": "I am reading."
+                },
+                {
+                    "type": "dialog",
+                    "id": 5,
+                    "chinese": "哦，什么书？",
+                    "pinyin": "Ó，shénme shū？",
+                    "english": "I see. What kind of book?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 6,
+                    "chinese": "一本中文书，叫《红楼梦》。",
+                    "pinyin": "Yì běn zhōnɡwén shū，jiào《Hónɡlóumènɡ》。",
+                    "english": "A Chinese book, called A Dream of Red Mansions."
+                },
+                {
+                    "type": "dialog",
+                    "id": 7,
+                    "chinese": "好看吗？",
+                    "pinyin": "Hǎokàn mɑ？",
+                    "english": "Is it interesting?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 8,
+                    "chinese": "嗯，很好看。我喜欢看中文书。",
+                    "pinyin": "Èn，hěn hǎokàn. Wǒ xǐhuɑn kàn zhōnɡwén shū.",
+                    "english": "Yes, very good. I like reading Chinese books."
+                },
+                {
+                    "type": "dialog",
+                    "id": 9,
+                    "chinese": "你在看什么书？",
+                    "pinyin": "Nǐ zài kàn shénme shū？",
+                    "english": "What are you reading?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 10,
+                    "chinese": "我不喜欢看书，我喜欢睡觉和看电视。",
+                    "pinyin": "Wǒ bù xǐhuɑn kànshū，wǒ xǐhuɑn shuìjiào hé kàn diànshì。",
+                    "english": "I don't like reading. I like sleeping and watching TV."
+                }
+            ]
+        },
+        {
+            "id": "lesson_19",
+            "data": [
+                {
+                    "type": "vocab",
+                    "id": 1,
+                    "chinese": "爱",
+                    "pinyin": "ài",
+                    "english": "love"
+                },
+                {
+                    "type": "vocab",
+                    "id": 2,
+                    "chinese": "呀",
+                    "pinyin": "yɑ",
+                    "english": "ah, oh"
+                },
+                {
+                    "type": "vocab",
+                    "id": 3,
+                    "chinese": "有 时 候",
+                    "pinyin": "yǒushíhou",
+                    "english": "sometimes"
+                },
+                {
+                    "type": "vocab",
+                    "id": 4,
+                    "chinese": "家",
+                    "pinyin": "jiā",
+                    "english": "home, family, household"
+                },
+                {
+                    "type": "vocab",
+                    "id": 5,
+                    "chinese": "里",
+                    "pinyin": "lǐ",
+                    "english": "inside"
+                },
+                {
+                    "type": "vocab",
+                    "id": 6,
+                    "chinese": "最",
+                    "pinyin": "zuì",
+                    "english": "most, best, worst"
+                },
+                {
+                    "type": "vocab",
+                    "id": 7,
+                    "chinese": "打 球",
+                    "pinyin": "dǎqiú",
+                    "english": "play ball games"
+                },
+                {
+                    "type": "dialog",
+                    "id": 1,
+                    "chinese": "小蓓，你爱看电视吗？",
+                    "pinyin": "Xiǎo bèi，Nǐ ài kàn diànshì mɑ？",
+                    "english": "Xiaobei, do you like watching TV?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 2,
+                    "chinese": "电视呀？我不爱看。",
+                    "pinyin": "Diànshì yɑ？Wǒ bú ài kàn.",
+                    "english": "TV? I don't like it."
+                },
+                {
+                    "type": "dialog",
+                    "id": 3,
+                    "chinese": "电影呢？你爱看吗？",
+                    "pinyin": "Diànyǐnɡ ne？Nǐ ài kàn mɑ？",
+                    "english": "What about films? Do you love watching films?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 4,
+                    "chinese": "爱看。我有时候在家里看电影，有时候去电影院。",
+                    "pinyin": "Ài kàn.Wǒ yǒushíhou zài jiālǐ kàn diànyǐnɡ，yǒushíhou qù diànyǐnɡyuàn.",
+                    "english": "Yes, I do. Sometimes I watch films at home; sometimes I go to the cinema."
+                },
+                {
+                    "type": "dialog",
+                    "id": 5,
+                    "chinese": "哦。你爱看什么电影？中国的？外国的？",
+                    "pinyin": "Ó.  Nǐ ài kàn shénme diànyǐnɡ？Zhōnɡɡuó de？Wàiɡuó de？",
+                    "english": "I see. What kind of films do you like? Chinese or foreign ones?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 6,
+                    "chinese": "中国的和外国的我都喜欢。",
+                    "pinyin": "Zhōnɡɡuó de hé wàiɡuó de wǒ dōu xǐhuɑn.",
+                    "english": "I like both of Chinese ones and foreign ones."
+                },
+                {
+                    "type": "dialog",
+                    "id": 7,
+                    "chinese": "你最喜欢做什么？",
+                    "pinyin": "Nǐ zuì xǐhuɑn zuò shénme？",
+                    "english": "What do you enjoy doing most?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 8,
+                    "chinese": "我最喜欢打球。",
+                    "pinyin": "Wǒ zuì xǐhuɑn dǎqiú.",
+                    "english": "I love playing ball games."
+                }
+            ]
+        },
+        {
+            "id": "lesson_20",
+            "data": [
+                {
+                    "type": "vocab",
+                    "id": 1,
+                    "chinese": "请坐",
+                    "pinyin": "qǐnɡ zuò",
+                    "english": "please sit down"
+                },
+                {
+                    "type": "vocab",
+                    "id": 2,
+                    "chinese": "手机",
+                    "pinyin": "shǒujī",
+                    "english": "mobile phone"
+                },
+                {
+                    "type": "vocab",
+                    "id": 3,
+                    "chinese": "听",
+                    "pinyin": "tīnɡ",
+                    "english": "listen, hear"
+                },
+                {
+                    "type": "vocab",
+                    "id": 4,
+                    "chinese": "音乐",
+                    "pinyin": "yīnyuè",
+                    "english": "music"
+                },
+                {
+                    "type": "vocab",
+                    "id": 5,
+                    "chinese": "书店",
+                    "pinyin": "shūdiàn",
+                    "english": "book shop"
+                },
+                {
+                    "type": "vocab",
+                    "id": 6,
+                    "chinese": "小学",
+                    "pinyin": "xiǎoxué",
+                    "english": "primary school"
+                },
+                {
+                    "type": "dialog",
+                    "id": 1,
+                    "chinese": "请坐！",
+                    "pinyin": "Qǐnɡ zuò!",
+                    "english": "Please sit down!"
+                },
+                {
+                    "type": "dialog",
+                    "id": 2,
+                    "chinese": "谢谢！这是你的手机吗？",
+                    "pinyin": "Xièxie！Zhè shì nǐ de shǒujī mɑ？",
+                    "english": "Thank you! Is this your mobile?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 3,
+                    "chinese": "对，是我的。漂亮吧？",
+                    "pinyin": "Duì，shì wǒ de. Piàoliɑnɡ bɑ？",
+                    "english": "Yes, it is mine. It’s beautiful, isn’t it?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 4,
+                    "chinese": "嗯，很漂亮！",
+                    "pinyin": "Ǹɡ，hěn piàoliɑnɡ！",
+                    "english": "Yes, it’s very beautiful."
+                },
+                {
+                    "type": "dialog",
+                    "id": 5,
+                    "chinese": "这是我的朋友，他喜欢听音乐。",
+                    "pinyin": "Zhè shì wǒ de pénɡyou，tā xǐhuɑn tīnɡ yīnyuè．",
+                    "english": "This is my friend. He likes listening to music."
+                },
+                {
+                    "type": "dialog",
+                    "id": 6,
+                    "chinese": "你认识他吗？",
+                    "pinyin": "Nǐ rènshi tā mɑ？",
+                    "english": "Do you know him？"
+                },
+                {
+                    "type": "dialog",
+                    "id": 7,
+                    "chinese": "认识。他叫谢亮，他是我哥哥的同学。",
+                    "pinyin": "Rènshi. Tā jiào Xiè Liànɡ，tā shì wǒ ɡēɡe de tónɡxué.",
+                    "english": "Yes, I do. His name is Xie Liang. He was my elder brother’s classmate."
+                },
+                {
+                    "type": "dialog",
+                    "id": 8,
+                    "chinese": "他在书店工作，对吧？",
+                    "pinyin": "Tā zài shūdiàn ɡōnɡzuò，duì bɑ？",
+                    "english": "He is working in a bookshop. Right?"
+                },
+                {
+                    "type": "dialog",
+                    "id": 9,
+                    "chinese": "不是，他在小学教书。",
+                    "pinyin": "Búshì，tā zài xiǎoxué jiāoshū．",
+                    "english": "No, he is teaching in a primary school."
+                }
+            ]
+        }
+    ]
+}
