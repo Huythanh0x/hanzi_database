@@ -1,0 +1,28 @@
+TABLE "course_data" (
+	"vocab_id"	INTEGER,
+	"course_title"	TEXT,
+	"week_title"	TEXT,
+	"lesson_title"	TEXT,
+	"phrases_type"	TEXT CHECK("phrases_type" IN ('vocabulary', 'dialogue')),
+	"chinese"	TEXT,
+	"pinyin"	TEXT,
+	"english"	TEXT,
+	PRIMARY KEY("vocab_id" AUTOINCREMENT)
+);
+
+I need  mysql query to insert data from my raw data. 
+
+MOST IMPORTANT, not skipped my chinese sentences and process them to insert to mysql too
+
+And pinyin and english cannot be null or empty, ful fill them
+
+There would be multiple lessons when I send you raw data, they are divided by:
+============================================================================
+
+Knowing that vocab_id is Primary key and increase automatically and phrases type can only be vocabulary or dialog
+
+and current data have: course_title "hsk1", week_title "Family and school/university", lesson_title is still "lesson_{x}" with x is the number from 1, vocab id start from 83
+
+Knowing that chinese field can only contain chinese language, pinyin and english field cannot be empty or null, find a way to fullfill them
+
+I expect there would be 5 lessons

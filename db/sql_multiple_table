@@ -1,0 +1,31 @@
+-- Table: courses
+CREATE TABLE courses (
+    id INT PRIMARY KEY,
+    title VARCHAR(255)
+);
+
+-- Table: weeks
+CREATE TABLE weeks (
+    id INT PRIMARY KEY,
+    courseid INT REFERENCES courses(id),
+    title VARCHAR(255)
+);
+
+-- Table: lessons
+CREATE TABLE lessons (
+    id INT PRIMARY KEY,
+    weekid INT REFERENCES weeks(id),
+    title VARCHAR(255)
+);
+
+-- Table: vocab
+CREATE TABLE data (
+    id INT PRIMARY KEY,
+    lesson_id INT REFERENCES lessons(id),
+    phrases_tytpe VARCHAR,
+    chinese VARCHAR(255),
+    piyin VARCHAR(255),
+    translation VARCHAR(255),
+    preview_image_url VARCHAR(255),
+    draw_instruction_url VARCHAR(255)
+);

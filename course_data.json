@@ -1,0 +1,1655 @@
+{
+    "db_version": 1,
+    "data": [
+        {
+            "chinese": "谁",
+            "course_title": "hsk1",
+            "english": "who, whom",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "vocabulary",
+            "pinyin": "shéi",
+            "vocab_id": 1,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "妈妈",
+            "course_title": "hsk1",
+            "english": "mother",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "vocabulary",
+            "pinyin": "māmɑ",
+            "vocab_id": 2,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "今年",
+            "course_title": "hsk1",
+            "english": "this year",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "vocabulary",
+            "pinyin": "jīnnián",
+            "vocab_id": 3,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "这个",
+            "course_title": "hsk1",
+            "english": "this one",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "vocabulary",
+            "pinyin": "zhèɡe",
+            "vocab_id": 4,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "爸爸",
+            "course_title": "hsk1",
+            "english": "father",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "vocabulary",
+            "pinyin": "bàbɑ",
+            "vocab_id": 5,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "哥哥",
+            "course_title": "hsk1",
+            "english": "older brother",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "vocabulary",
+            "pinyin": "ɡēɡe",
+            "vocab_id": 6,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "妹妹",
+            "course_title": "hsk1",
+            "english": "younger sister",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "vocabulary",
+            "pinyin": "mèimei",
+            "vocab_id": 7,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "漂亮",
+            "course_title": "hsk1",
+            "english": "pretty, beautiful",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "vocabulary",
+            "pinyin": "piàoliɑnɡ",
+            "vocab_id": 8,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "旭东，她是谁？",
+            "course_title": "hsk1",
+            "english": "Xudong, who is she?",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "dialogue",
+            "pinyin": "Xùdōng, tā shì shéi?",
+            "vocab_id": 9,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "她是我妈妈。她今年四十六岁。",
+            "course_title": "hsk1",
+            "english": "She is my mom. She is 46 years old this year.",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "dialogue",
+            "pinyin": "Tā shì wǒ māmɑ. Tā jīnnián sìshí liù suì.",
+            "vocab_id": 10,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "她是谁？",
+            "course_title": "hsk1",
+            "english": "Who is she?",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "dialogue",
+            "pinyin": "Tā shì shéi?",
+            "vocab_id": 11,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "她是我妹妹。她今年十九岁。",
+            "course_title": "hsk1",
+            "english": "She is my younger sister. She is 19 years old this year.",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "dialogue",
+            "pinyin": "Tā shì wǒ mèimei. Tā jīnnián shíjiǔ suì.",
+            "vocab_id": 12,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "你妹妹很漂亮。",
+            "course_title": "hsk1",
+            "english": "Your younger sister is very pretty.",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "dialogue",
+            "pinyin": "Nǐ mèimei hěn piàoliɑnɡ.",
+            "vocab_id": 13,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "谢谢！",
+            "course_title": "hsk1",
+            "english": "Thanks!",
+            "lesson_title": "Lesson 1 你好  Nǐ hǎo! Hello!",
+            "phrases_type": "dialogue",
+            "pinyin": "Xièxie!",
+            "vocab_id": 14,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "有",
+            "course_title": "hsk1",
+            "english": "have",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "vocabulary",
+            "pinyin": "yǒu",
+            "vocab_id": 15,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "狗",
+            "course_title": "hsk1",
+            "english": "dog",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "vocabulary",
+            "pinyin": "ɡǒu",
+            "vocab_id": 16,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "吗",
+            "course_title": "hsk1",
+            "english": "(question mark)",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "vocabulary",
+            "pinyin": "mɑ",
+            "vocab_id": 17,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "只",
+            "course_title": "hsk1",
+            "english": "measure word",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "vocabulary",
+            "pinyin": "zhī",
+            "vocab_id": 18,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "了",
+            "course_title": "hsk1",
+            "english": "a particle",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "vocabulary",
+            "pinyin": "le",
+            "vocab_id": 19,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "没有",
+            "course_title": "hsk1",
+            "english": "do not have",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "vocabulary",
+            "pinyin": "méiyǒu",
+            "vocab_id": 20,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "猫",
+            "course_title": "hsk1",
+            "english": "cat",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "vocabulary",
+            "pinyin": "māo",
+            "vocab_id": 21,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "汪汪",
+            "course_title": "hsk1",
+            "english": "a dog\\'s name",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "vocabulary",
+            "pinyin": "Wānɡwàng",
+            "vocab_id": 22,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "小",
+            "course_title": "hsk1",
+            "english": "small",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "vocabulary",
+            "pinyin": "xiǎo",
+            "vocab_id": 23,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "喵喵",
+            "course_title": "hsk1",
+            "english": "a cat\\'s name",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "vocabulary",
+            "pinyin": "Miāomiāo",
+            "vocab_id": 24,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "旭东，你有狗吗？",
+            "course_title": "hsk1",
+            "english": "Xudong, do you have a dog?",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "dialogue",
+            "pinyin": "Xùdōng, nǐ yǒu ɡǒu mɑ?",
+            "vocab_id": 25,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "有。我有一只大狗。",
+            "course_title": "hsk1",
+            "english": "Yes. I have a big dog.",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "dialogue",
+            "pinyin": "Yǒu. Wǒ yǒu yì zhī dà ɡǒu.",
+            "vocab_id": 26,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "你的狗多大了？",
+            "course_title": "hsk1",
+            "english": "How old is your dog?",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "dialogue",
+            "pinyin": "Nǐ de ɡǒu duō dà le?",
+            "vocab_id": 27,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "七岁了。小蓓，你有狗吗？",
+            "course_title": "hsk1",
+            "english": "Seven years old. Xiaobei, do you have a dog?",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "dialogue",
+            "pinyin": "Qī suì le. Xiǎobèi, nǐ yǒu ɡǒu mɑ?",
+            "vocab_id": 28,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "我没有狗。我有一只三岁的小猫。",
+            "course_title": "hsk1",
+            "english": "No, I don\\'t have a dog. I have a 3-year-old kitten.",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒ méiyǒu ɡǒu. Wǒ yǒu yì zhī sān suì de xiǎo māo.",
+            "vocab_id": 29,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "我的大狗叫汪汪。",
+            "course_title": "hsk1",
+            "english": "My dog is called Wangwang.",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒ de dà ɡǒu jiào Wānɡwàng.",
+            "vocab_id": 30,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "我的小猫叫喵喵。",
+            "course_title": "hsk1",
+            "english": "My kitten is called Miaomiao.",
+            "lesson_title": "Lesson 2 你是哪国人 Nǐ shì nǎ guó rén? Where are you from?",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒ de xiǎo māo jiào Miāomiāo.",
+            "vocab_id": 31,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "在",
+            "course_title": "hsk1",
+            "english": "to be at/in/on; Indicating location",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "vocabulary",
+            "pinyin": "zài",
+            "vocab_id": 32,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "北京",
+            "course_title": "hsk1",
+            "english": "Beijing",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "vocabulary",
+            "pinyin": "Běijīng",
+            "vocab_id": 33,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "学习",
+            "course_title": "hsk1",
+            "english": "study",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "vocabulary",
+            "pinyin": "xuéxí",
+            "vocab_id": 34,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "汉语",
+            "course_title": "hsk1",
+            "english": "Chinese",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "vocabulary",
+            "pinyin": "hànyǔ",
+            "vocab_id": 35,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "呢",
+            "course_title": "hsk1",
+            "english": "a modal particle",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "vocabulary",
+            "pinyin": "ne",
+            "vocab_id": 36,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "学校",
+            "course_title": "hsk1",
+            "english": "school",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "vocabulary",
+            "pinyin": "xuéxiào",
+            "vocab_id": 37,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "个",
+            "course_title": "hsk1",
+            "english": "(measure word)",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "vocabulary",
+            "pinyin": "ɡè",
+            "vocab_id": 38,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "儿子",
+            "course_title": "hsk1",
+            "english": "son",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "vocabulary",
+            "pinyin": "érzi",
+            "vocab_id": 39,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "和",
+            "course_title": "hsk1",
+            "english": "and",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "vocabulary",
+            "pinyin": "hé",
+            "vocab_id": 40,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "女儿",
+            "course_title": "hsk1",
+            "english": "daughter",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "vocabulary",
+            "pinyin": "nǚér",
+            "vocab_id": 41,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "你好！我在北京学习汉语呢！",
+            "course_title": "hsk1",
+            "english": "Hello! I am learning Chinese in Beijing.",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "dialogue",
+            "pinyin": "Nǐ hǎo! Wǒ zài Běijīng xuéxí hànyǔ ne!",
+            "vocab_id": 42,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "我们的学校很大。",
+            "course_title": "hsk1",
+            "english": "Our school is very big.",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒmen de xuéxiào hěn dà.",
+            "vocab_id": 43,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "我的老师叫王欢，她今年三十六岁。",
+            "course_title": "hsk1",
+            "english": "My teacher\\'s name is Wang Huan. She is 36 years old this year.",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒ de lǎoshī jiào Wánɡ Huān, Tā jīnnián sān shí liù suì.",
+            "vocab_id": 44,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "王老师有一个儿子和一个女儿。",
+            "course_title": "hsk1",
+            "english": "Teacher Wang has a son and a daughter.",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "dialogue",
+            "pinyin": "Wánɡ Lǎoshī yǒu yí gè érzi hé yí gè nǚ’ér.",
+            "vocab_id": 45,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "她儿子五岁，女儿三岁。",
+            "course_title": "hsk1",
+            "english": "Her son is 5, and her daughter is 3.",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "dialogue",
+            "pinyin": "Tā érzi wǔ suì, nǚ\\'ér sān suì.",
+            "vocab_id": 46,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "你怎么样？",
+            "course_title": "hsk1",
+            "english": "How about you?",
+            "lesson_title": "Lesson 3 你多大了Nǐ duō dà le？ How old are you?",
+            "phrases_type": "dialogue",
+            "pinyin": "Nǐ zěnmeyànɡ?",
+            "vocab_id": 47,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "朋友",
+            "course_title": "hsk1",
+            "english": "friend",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "vocabulary",
+            "pinyin": "pénɡyou",
+            "vocab_id": 48,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "看",
+            "course_title": "hsk1",
+            "english": "watch",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "vocabulary",
+            "pinyin": "kàn",
+            "vocab_id": 49,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "电影",
+            "course_title": "hsk1",
+            "english": "movie",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "vocabulary",
+            "pinyin": "diànyǐnɡ",
+            "vocab_id": 50,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "你们",
+            "course_title": "hsk1",
+            "english": "you all",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "vocabulary",
+            "pinyin": "nǐmen",
+            "vocab_id": 51,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "今天",
+            "course_title": "hsk1",
+            "english": "today",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "vocabulary",
+            "pinyin": "jīntiān",
+            "vocab_id": 52,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "想",
+            "course_title": "hsk1",
+            "english": "want",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "vocabulary",
+            "pinyin": "xiǎnɡ",
+            "vocab_id": 53,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "功夫",
+            "course_title": "hsk1",
+            "english": "kungfu",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "vocabulary",
+            "pinyin": "ɡōnɡfu",
+            "vocab_id": 54,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "熊猫",
+            "course_title": "hsk1",
+            "english": "panda",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "vocabulary",
+            "pinyin": "xiónɡmāo",
+            "vocab_id": 55,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "他是你的同学吗？",
+            "course_title": "hsk1",
+            "english": "Is he your classmate?",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "dialogue",
+            "pinyin": "Tā shì nǐ de tóngxué mɑ?",
+            "vocab_id": 56,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "是。我们认识三年了。",
+            "course_title": "hsk1",
+            "english": "Yes, we have known each other for 3 years.",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "dialogue",
+            "pinyin": "Shì. Wǒmen rènshí sān nián le.",
+            "vocab_id": 57,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "她也是你的同学吗？",
+            "course_title": "hsk1",
+            "english": "Is she also your classmate?",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "dialogue",
+            "pinyin": "Tā yě shì nǐ de tóngxué mɑ?",
+            "vocab_id": 58,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "不是。她是我的朋友，我们一起看电影。",
+            "course_title": "hsk1",
+            "english": "No, she is my friend. We watch movies together.",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "dialogue",
+            "pinyin": "Bú shì. Tā shì wǒ de pénɡyou, wǒmen yìqǐ kàn diànyǐnɡ.",
+            "vocab_id": 59,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "你们今天想看电影吗？",
+            "course_title": "hsk1",
+            "english": "Do you want to watch a movie today?",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "dialogue",
+            "pinyin": "Nǐmen jīntiān xiǎnɡ kàn diànyǐnɡ mɑ?",
+            "vocab_id": 60,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "想看呀！我们想看《功夫熊猫》。",
+            "course_title": "hsk1",
+            "english": "Yes, I want to. We want to watch Kung Fu Panda.",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "dialogue",
+            "pinyin": "Xiǎnɡ kàn ya! Wǒmen xiǎnɡ kàn Gōnɡfu Xiónɡmāo.",
+            "vocab_id": 61,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "看，是这个！",
+            "course_title": "hsk1",
+            "english": "Look, this one!",
+            "lesson_title": "Lesson 4 我的电话号码是 Wǒ de diànhuà hàomǎ shì ……My phone number is...",
+            "phrases_type": "dialogue",
+            "pinyin": "Kàn, shì zhè ɡe!",
+            "vocab_id": 62,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "老师",
+            "course_title": "hsk1",
+            "english": "teacher",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "vocabulary",
+            "pinyin": "lǎoshī",
+            "vocab_id": 63,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "同学",
+            "course_title": "hsk1",
+            "english": "classmate",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "vocabulary",
+            "pinyin": "tónɡxué",
+            "vocab_id": 64,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "们",
+            "course_title": "hsk1",
+            "english": "suff. plural indicator for pronouns and a few animate nouns",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "vocabulary",
+            "pinyin": "men",
+            "vocab_id": 65,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "怎么样",
+            "course_title": "hsk1",
+            "english": "is used to ask about the condition of something or someone",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "vocabulary",
+            "pinyin": "zěnmeyànɡ",
+            "vocab_id": 66,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "谢谢",
+            "course_title": "hsk1",
+            "english": "thanks",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "vocabulary",
+            "pinyin": "xièxie",
+            "vocab_id": 67,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "不客气",
+            "course_title": "hsk1",
+            "english": "you are welcome",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "vocabulary",
+            "pinyin": "bú kèqi",
+            "vocab_id": 68,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "对不起",
+            "course_title": "hsk1",
+            "english": "Sorry",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "vocabulary",
+            "pinyin": "duìbuqǐ",
+            "vocab_id": 69,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "没关系",
+            "course_title": "hsk1",
+            "english": "Not at all/It doesn\\'t matter/That’s all right.",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "vocabulary",
+            "pinyin": "méi ɡuānxi",
+            "vocab_id": 70,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "再见",
+            "course_title": "hsk1",
+            "english": "bye",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "vocabulary",
+            "pinyin": "zàijiàn",
+            "vocab_id": 71,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "同学们好！",
+            "course_title": "hsk1",
+            "english": "Hello, students!",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "dialogue",
+            "pinyin": "Tóngxué men hǎo!",
+            "vocab_id": 72,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "老师好！",
+            "course_title": "hsk1",
+            "english": "Hello teacher!",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "dialogue",
+            "pinyin": "Lǎoshī hǎo!",
+            "vocab_id": 73,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "你怎么样？",
+            "course_title": "hsk1",
+            "english": "How are you?",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "dialogue",
+            "pinyin": "Nǐ zěnmeyàng?",
+            "vocab_id": 74,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "我很好。你呢？",
+            "course_title": "hsk1",
+            "english": "I am fine. And you?",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒ hěn hǎo. Nǐ ne?",
+            "vocab_id": 75,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "我也很好。",
+            "course_title": "hsk1",
+            "english": "I am fine too.",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒ yě hěn hǎo.",
+            "vocab_id": 76,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "谢谢！",
+            "course_title": "hsk1",
+            "english": "Thanks!",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "dialogue",
+            "pinyin": "Xièxie!",
+            "vocab_id": 77,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "不客气！",
+            "course_title": "hsk1",
+            "english": "You are welcome!",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "dialogue",
+            "pinyin": "Bú kèqi!",
+            "vocab_id": 78,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "对不起！",
+            "course_title": "hsk1",
+            "english": "Sorry!",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "dialogue",
+            "pinyin": "Duìbuqǐ!",
+            "vocab_id": 79,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "没关系！",
+            "course_title": "hsk1",
+            "english": "Not at all!",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "dialogue",
+            "pinyin": "Méi guānxi!",
+            "vocab_id": 80,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "再见！",
+            "course_title": "hsk1",
+            "english": "Bye!",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "dialogue",
+            "pinyin": "Zàijiàn!",
+            "vocab_id": 81,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "明天见！",
+            "course_title": "hsk1",
+            "english": "See you tomorrow!",
+            "lesson_title": "Lesson 5 谢谢 Xièxie！Thanks！",
+            "phrases_type": "dialogue",
+            "pinyin": "Míngtiān jiàn!",
+            "vocab_id": 82,
+            "week_title": "Greetings and numbers"
+        },
+        {
+            "chinese": "谁",
+            "course_title": "hsk1",
+            "english": "who, whom",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "vocabulary",
+            "pinyin": "shéi",
+            "vocab_id": 83,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "妈妈",
+            "course_title": "hsk1",
+            "english": "mother",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "vocabulary",
+            "pinyin": "māmɑ",
+            "vocab_id": 84,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "今年",
+            "course_title": "hsk1",
+            "english": "this year",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "vocabulary",
+            "pinyin": "jīnnián",
+            "vocab_id": 85,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "这个",
+            "course_title": "hsk1",
+            "english": "this one",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "vocabulary",
+            "pinyin": "zhèɡe",
+            "vocab_id": 86,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "爸爸",
+            "course_title": "hsk1",
+            "english": "father",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "vocabulary",
+            "pinyin": "bàbɑ",
+            "vocab_id": 87,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "哥哥",
+            "course_title": "hsk1",
+            "english": "older brother",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "vocabulary",
+            "pinyin": "ɡēɡe",
+            "vocab_id": 88,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "妹妹",
+            "course_title": "hsk1",
+            "english": "younger sister",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "vocabulary",
+            "pinyin": "mèimei",
+            "vocab_id": 89,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "漂亮",
+            "course_title": "hsk1",
+            "english": "pretty, beautiful",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "vocabulary",
+            "pinyin": "piàoliɑnɡ",
+            "vocab_id": 90,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "旭东，她是谁？",
+            "course_title": "hsk1",
+            "english": "Xudong, who is she?",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "dialogue",
+            "pinyin": "Xùdōnɡ, tā shì shéi?",
+            "vocab_id": 91,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "她是我妈妈。她今年四十六岁。",
+            "course_title": "hsk1",
+            "english": "She is my mum. She is 46 years old this year.",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "dialogue",
+            "pinyin": "Tā shì wǒ māmɑ. Tā jīnnián sì shí liù suì.",
+            "vocab_id": 92,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "她是谁？",
+            "course_title": "hsk1",
+            "english": "Who is she?",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "dialogue",
+            "pinyin": "Tā shì shéi?",
+            "vocab_id": 93,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "她是我妹妹。她今年十九岁。",
+            "course_title": "hsk1",
+            "english": "She is my younger sister. She is 19 years old this year.",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "dialogue",
+            "pinyin": "Tā shì wǒ mèimei. Tā jīnnián shí jiǔ suì.",
+            "vocab_id": 94,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "你妹妹很漂亮。",
+            "course_title": "hsk1",
+            "english": "Your younger sister is very pretty.",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "dialogue",
+            "pinyin": "Nǐ mèimei hěn piàoliɑnɡ.",
+            "vocab_id": 95,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "谢谢！",
+            "course_title": "hsk1",
+            "english": "Thanks!",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "dialogue",
+            "pinyin": "Xièxie!",
+            "vocab_id": 96,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "这个人是谁？",
+            "course_title": "hsk1",
+            "english": "Who is this person?",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "dialogue",
+            "pinyin": "Zhè ɡe rén shì shéi?",
+            "vocab_id": 97,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "这个人是我爸爸。他今年五十岁。",
+            "course_title": "hsk1",
+            "english": "This is my dad. He is 50 years old this year.",
+            "lesson_title": "Lesson 1 她是谁 Tā shì shéi？Who is she? ",
+            "phrases_type": "dialogue",
+            "pinyin": "Zhè ɡe rén shì wǒ bàbɑ. Tā jīnnián wǔshí suì.",
+            "vocab_id": 98,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "有",
+            "course_title": "hsk1",
+            "english": "have",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "vocabulary",
+            "pinyin": "yǒu",
+            "vocab_id": 99,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "狗",
+            "course_title": "hsk1",
+            "english": "dog",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "vocabulary",
+            "pinyin": "ɡǒu",
+            "vocab_id": 100,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "吗",
+            "course_title": "hsk1",
+            "english": "(question mark)",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "vocabulary",
+            "pinyin": "mɑ",
+            "vocab_id": 101,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "只",
+            "course_title": "hsk1",
+            "english": "measure word",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "vocabulary",
+            "pinyin": "zhī",
+            "vocab_id": 102,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "了",
+            "course_title": "hsk1",
+            "english": "a particle",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "vocabulary",
+            "pinyin": "le",
+            "vocab_id": 103,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "没有",
+            "course_title": "hsk1",
+            "english": "do not have",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "vocabulary",
+            "pinyin": "méi yǒu",
+            "vocab_id": 104,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "猫",
+            "course_title": "hsk1",
+            "english": "cat",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "vocabulary",
+            "pinyin": "māo",
+            "vocab_id": 105,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "汪汪",
+            "course_title": "hsk1",
+            "english": "a dog's name",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "vocabulary",
+            "pinyin": "Wānɡwang",
+            "vocab_id": 106,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "小",
+            "course_title": "hsk1",
+            "english": "small",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "vocabulary",
+            "pinyin": "xiǎo",
+            "vocab_id": 107,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "喵喵",
+            "course_title": "hsk1",
+            "english": "a cat's name",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "dialogue",
+            "pinyin": "Miāomiao",
+            "vocab_id": 108,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "旭东，你有狗吗？",
+            "course_title": "hsk1",
+            "english": "Xudong, do you have a dog?",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "dialogue",
+            "pinyin": "Xùdōnɡ，nǐ yǒu ɡǒu mɑ？",
+            "vocab_id": 109,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "有。我有一只大狗。",
+            "course_title": "hsk1",
+            "english": "Yes, I have a big dog.",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "dialogue",
+            "pinyin": "Yǒu. Wǒ yǒu yì zhī dà ɡǒu.",
+            "vocab_id": 110,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "你的狗多大了？",
+            "course_title": "hsk1",
+            "english": "How old is your dog?",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "dialogue",
+            "pinyin": "Nǐ de ɡǒu duō dà le？",
+            "vocab_id": 111,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "七岁了。小蓓，你有狗吗？",
+            "course_title": "hsk1",
+            "english": "It is 7 years old. Xiaobei, do you have a dog?",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "dialogue",
+            "pinyin": "Qī suì le. Xiǎobèi, nǐ yǒu ɡǒu mɑ？",
+            "vocab_id": 112,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "我没有狗。我有一只三岁的小猫。",
+            "course_title": "hsk1",
+            "english": "I do not have a dog. I have a 3-year-old kitten.",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒ méiyǒu ɡǒu. Wǒ yǒu yì zhī sān suì de xiǎo māo.",
+            "vocab_id": 113,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "我的大狗叫汪汪。",
+            "course_title": "hsk1",
+            "english": "My big dog's name is Wangwang.",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒ de dà ɡǒu jiào Wānɡwanɡ.",
+            "vocab_id": 114,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "我的小猫叫喵喵。",
+            "course_title": "hsk1",
+            "english": "My kitten's name is Miaomiao.",
+            "lesson_title": "Lesson 2 我有一只大狗 Wǒ yǒu yì zhī dà ɡǒu I have a big dog",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒ de xiǎo māo jiào Miāomiao.",
+            "vocab_id": 115,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "在",
+            "course_title": "hsk1",
+            "english": "to be at/in/on; Indicating location",
+            "lesson_title": "Lesson 3 我的汉语老师  Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "vocabulary",
+            "pinyin": "zài",
+            "vocab_id": 116,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "北京",
+            "course_title": "hsk1",
+            "english": "Beijing",
+            "lesson_title": "Lesson 3 我的汉语老师  Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "vocabulary",
+            "pinyin": "Běijīnɡ",
+            "vocab_id": 117,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "学习",
+            "course_title": "hsk1",
+            "english": "study",
+            "lesson_title": "Lesson 3 我的汉语老师  Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "vocabulary",
+            "pinyin": "xuéxí",
+            "vocab_id": 118,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "汉语",
+            "course_title": "hsk1",
+            "english": "Chinese",
+            "lesson_title": "Lesson 3 我的汉语老师  Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "vocabulary",
+            "pinyin": "hànyǔ",
+            "vocab_id": 119,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "呢",
+            "course_title": "hsk1",
+            "english": "a modal particle",
+            "lesson_title": "Lesson 3 我的汉语老师  Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "vocabulary",
+            "pinyin": "ne",
+            "vocab_id": 120,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "学校",
+            "course_title": "hsk1",
+            "english": "school",
+            "lesson_title": "Lesson 3 我的汉语老师  Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "vocabulary",
+            "pinyin": "xuéxiào",
+            "vocab_id": 121,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "个",
+            "course_title": "hsk1",
+            "english": "(measure word)",
+            "lesson_title": "Lesson 3 我的汉语老师  Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "vocabulary",
+            "pinyin": "ɡè",
+            "vocab_id": 122,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "儿子",
+            "course_title": "hsk1",
+            "english": "son",
+            "lesson_title": "Lesson 3 我的汉语老师  Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "vocabulary",
+            "pinyin": "érzi",
+            "vocab_id": 123,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "和",
+            "course_title": "hsk1",
+            "english": "and",
+            "lesson_title": "Lesson 3 我的汉语老师  Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "vocabulary",
+            "pinyin": "hé",
+            "vocab_id": 124,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "女儿",
+            "course_title": "hsk1",
+            "english": "daughter",
+            "lesson_title": "Lesson 3 我的汉语老师  Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "vocabulary",
+            "pinyin": "nǚér",
+            "vocab_id": 125,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "Jenny：你好！我在北京学习汉语呢！",
+            "course_title": "hsk1",
+            "english": "Jenny: Hello! I am learning Chinese in Beijing.",
+            "lesson_title": "Lesson 3 我的汉语老师 Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "dialogue",
+            "pinyin": "Jenny：Nǐ hǎo！Wǒ zài Běijīng xuéxí hànyǔ ne！",
+            "vocab_id": 126,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "我们的学校很大。",
+            "course_title": "hsk1",
+            "english": "Our school is very big.",
+            "lesson_title": "Lesson 3 我的汉语老师 Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒmen de xuéxiào hěn dà.",
+            "vocab_id": 127,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "我的老师叫王欢，她今年三十六岁。",
+            "course_title": "hsk1",
+            "english": "My teacher's name is Wang Huan. She is 36 years old this year.",
+            "lesson_title": "Lesson 3 我的汉语老师 Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒ de lǎoshī jiào Wánɡ Huān，Tā jīnnián sān shí liù suì.",
+            "vocab_id": 128,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "王老师有一个儿子和一个女儿。",
+            "course_title": "hsk1",
+            "english": "Teacher Wang has a son and a daughter.",
+            "lesson_title": "Lesson 3 我的汉语老师 Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "dialogue",
+            "pinyin": "Wánɡ Lǎoshī yǒu yí gè érzi hé yí gè nǚ’ér.",
+            "vocab_id": 129,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "她儿子五岁，女儿三岁。",
+            "course_title": "hsk1",
+            "english": "Her son is 5 and her daughter is 3.",
+            "lesson_title": "Lesson 3 我的汉语老师 Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "dialogue",
+            "pinyin": "Tā érzi wǔ suì,nǚ’ér sān suì.",
+            "vocab_id": 130,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "你怎么样？",
+            "course_title": "hsk1",
+            "english": "How about you?",
+            "lesson_title": "Lesson 3 我的汉语老师 Wǒ de hànyǔ lǎoshī My Chinese teacher",
+            "phrases_type": "dialogue",
+            "pinyin": "Nǐ zěnmeyànɡ？",
+            "vocab_id": 131,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "弟弟",
+            "course_title": "hsk1",
+            "english": "younger brother",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "vocabulary",
+            "pinyin": "dìdi",
+            "vocab_id": 132,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "会",
+            "course_title": "hsk1",
+            "english": "can",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "vocabulary",
+            "pinyin": "huì",
+            "vocab_id": 133,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "说",
+            "course_title": "hsk1",
+            "english": "to speak, to say",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "vocabulary",
+            "pinyin": "shuō",
+            "vocab_id": 134,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "一点儿",
+            "course_title": "hsk1",
+            "english": "a little",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "vocabulary",
+            "pinyin": "yìdiǎnr",
+            "vocab_id": 135,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "酷",
+            "course_title": "hsk1",
+            "english": "cool",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "vocabulary",
+            "pinyin": "kù",
+            "vocab_id": 136,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "对",
+            "course_title": "hsk1",
+            "english": "right, correct",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "vocabulary",
+            "pinyin": "duì",
+            "vocab_id": 137,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "写",
+            "course_title": "hsk1",
+            "english": "to write",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "vocabulary",
+            "pinyin": "xiě",
+            "vocab_id": 138,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "汉字",
+            "course_title": "hsk1",
+            "english": "Chinese character",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "vocabulary",
+            "pinyin": "hànzì",
+            "vocab_id": 139,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "太……了",
+            "course_title": "hsk1",
+            "english": "too, very",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "vocabulary",
+            "pinyin": "tài … … le",
+            "vocab_id": 140,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "乔治，你弟弟会说汉语吗？",
+            "course_title": "hsk1",
+            "english": "Qiaozhi, can your brother speak Chinese?",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "dialogue",
+            "pinyin": "Qiáozhì, nǐ dìdi huì shuō hànyǔ mɑ？",
+            "vocab_id": 141,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "会说一点儿。他说，会说汉语很酷！",
+            "course_title": "hsk1",
+            "english": "Yes, he can speak a little. He said, speaking Chinese is cool!",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "dialogue",
+            "pinyin": "Huì shuō yī diǎnr. Tā shuō，huì shuō hànyǔ hěn kù！",
+            "vocab_id": 142,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "对！太酷了！他会写汉字吗？",
+            "course_title": "hsk1",
+            "english": "Yes, it is very cool! Can he write Chinese characters?",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "dialogue",
+            "pinyin": "Duì！Tài kù le！Tā huì xiě hànzì mɑ？",
+            "vocab_id": 143,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "会。他会写二十五个汉字。",
+            "course_title": "hsk1",
+            "english": "Yes, he can. He can write 25 Chinese characters.",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "dialogue",
+            "pinyin": "Huì. Tā huì xiě èr shí wǔ ɡè hànzì.",
+            "vocab_id": 144,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "你会写汉字吗？",
+            "course_title": "hsk1",
+            "english": "Can you write Chinese characters?",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "dialogue",
+            "pinyin": "Nǐ huì xiě hànzì mɑ？",
+            "vocab_id": 145,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "我会读，不会写。",
+            "course_title": "hsk1",
+            "english": "I can read. I can’t write.",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒ huì dú， bú huì xiě.",
+            "vocab_id": 146,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "这四个字怎么读？",
+            "course_title": "hsk1",
+            "english": "How to read these four characters?",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "dialogue",
+            "pinyin": "Zhè sì ɡè zì zěnme dú？",
+            "vocab_id": 147,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "“北京大学”。",
+            "course_title": "hsk1",
+            "english": "Peking University.",
+            "lesson_title": "Lesson 4 会说汉语很酷！Huì shuō hànyǔ hěn kù! Speaking Chinese is cool!",
+            "phrases_type": "dialogue",
+            "pinyin": "“Běijīnɡ dàxué”。",
+            "vocab_id": 148,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "朋友",
+            "course_title": "hsk1",
+            "english": "friend",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "vocabulary",
+            "pinyin": "péngyǒu",
+            "vocab_id": 149,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "看",
+            "course_title": "hsk1",
+            "english": "watch",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "vocabulary",
+            "pinyin": "kàn",
+            "vocab_id": 150,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "电影",
+            "course_title": "hsk1",
+            "english": "movie",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "vocabulary",
+            "pinyin": "diànyǐng",
+            "vocab_id": 151,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "你们",
+            "course_title": "hsk1",
+            "english": "you all",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "vocabulary",
+            "pinyin": "nǐ men",
+            "vocab_id": 152,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "今天",
+            "course_title": "hsk1",
+            "english": "today",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "vocabulary",
+            "pinyin": "jīntiān",
+            "vocab_id": 153,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "想",
+            "course_title": "hsk1",
+            "english": "want",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "vocabulary",
+            "pinyin": "xiǎng",
+            "vocab_id": 154,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "功夫",
+            "course_title": "hsk1",
+            "english": "kungfu",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "vocabulary",
+            "pinyin": "gōngfu",
+            "vocab_id": 155,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "熊猫",
+            "course_title": "hsk1",
+            "english": "panda",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "vocabulary",
+            "pinyin": "xiónɡmāo",
+            "vocab_id": 156,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "他是你的同学吗？",
+            "course_title": "hsk1",
+            "english": "Is he your classmate?",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "dialogue",
+            "pinyin": "Tā shì nǐ de tónɡxué mɑ？",
+            "vocab_id": 157,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "是。我们认识三年了。",
+            "course_title": "hsk1",
+            "english": "Yes, we have known each other for 3 years.",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "dialogue",
+            "pinyin": "Shì. Wǒmen rènshi sān nián le.",
+            "vocab_id": 158,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "她也是你的同学吗？",
+            "course_title": "hsk1",
+            "english": "Is she also your classmate?",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "dialogue",
+            "pinyin": "Tā yě shì nǐ de tónɡxué mɑ？",
+            "vocab_id": 159,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "不是。她是我的朋友(friend)，",
+            "course_title": "hsk1",
+            "english": "No, she is my friend,",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "dialogue",
+            "pinyin": "Bú shì. Tā shì wǒ de péngyou，",
+            "vocab_id": 160,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "我们一起(together)看电影(film)。",
+            "course_title": "hsk1",
+            "english": "we watch films together.",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "dialogue",
+            "pinyin": "wǒ men yì qǐ kàn diànyǐnɡ.",
+            "vocab_id": 161,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "你们今天(today)想(would like)看电影吗？",
+            "course_title": "hsk1",
+            "english": "Do you want to watch a film today?",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "dialogue",
+            "pinyin": "Nǐ men jīntiān xiǎnɡ kàn diànyǐnɡ mɑ？",
+            "vocab_id": 162,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "想看呀(modal particle)！",
+            "course_title": "hsk1",
+            "english": "Yes, I want to.",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "dialogue",
+            "pinyin": "Xiǎnɡ kàn ya!",
+            "vocab_id": 163,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "我们想看《功夫熊猫》(Kung Fu Panda)。",
+            "course_title": "hsk1",
+            "english": "We would like to watch Kung Fu Panda.",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "dialogue",
+            "pinyin": "Wǒmen xiǎnɡ kàn Gōnɡfu Xiónɡmāo.",
+            "vocab_id": 164,
+            "week_title": "Family and school/university"
+        },
+        {
+            "chinese": "看，是这个！",
+            "course_title": "hsk1",
+            "english": "See, here it is!",
+            "lesson_title": "Lesson 5 他是你的同学吗 Tā shì nǐ de tónɡxué mɑ？Is he your classmate?",
+            "phrases_type": "dialogue",
+            "pinyin": "Kàn, shì zhè ɡe！",
+            "vocab_id": 165,
+            "week_title": "Family and school/university"
+        }
+    ]
+}
